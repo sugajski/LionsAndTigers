@@ -9,6 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet weak var ageLabel: UILabel!
+    @IBOutlet weak var breedLabel: UILabel!
+    @IBOutlet weak var myImageView: UIImageView!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,6 +26,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func nextBarButtonPressed(sender: UIBarButtonItem) {
+        
+        
+    }
 
 }
 

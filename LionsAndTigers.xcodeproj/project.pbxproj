@@ -15,6 +15,7 @@
 		880548D71D40B63F00EAC5F7 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 880548D41D40B63F00EAC5F7 /* 1.jpg */; };
 		880548D81D40B63F00EAC5F7 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 880548D51D40B63F00EAC5F7 /* 2.jpg */; };
 		880548D91D40B63F00EAC5F7 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 880548D61D40B63F00EAC5F7 /* 3.jpg */; };
+		880548DB1D40B85200EAC5F7 /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880548DA1D40B85200EAC5F7 /* Tiger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		880548D41D40B63F00EAC5F7 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 		880548D51D40B63F00EAC5F7 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 		880548D61D40B63F00EAC5F7 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		880548DA1D40B85200EAC5F7 /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				880548CA1D40B1F400EAC5F7 /* LaunchScreen.storyboard */,
 				880548CD1D40B1F400EAC5F7 /* Info.plist */,
 				880548D31D40B62200EAC5F7 /* Supporting Files */,
+				880548DA1D40B85200EAC5F7 /* Tiger.swift */,
 			);
 			path = LionsAndTigers;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				880548C41D40B1F400EAC5F7 /* ViewController.swift in Sources */,
+				880548DB1D40B85200EAC5F7 /* Tiger.swift in Sources */,
 				880548C21D40B1F400EAC5F7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
